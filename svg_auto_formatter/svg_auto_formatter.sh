@@ -9,7 +9,7 @@ if [ "$#" -ne 3 ]; then
     echo ""
     echo "Script produces new outfile ending with '.out.svg'"
     echo ""
-    echo "ABOUT: scans SVG file for keywords and applies formatting"
+    echo "ABOUT: scans SVG file for keywords and applies formatting in terms of the two different modes"
     exit 1
 fi
 
